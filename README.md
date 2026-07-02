@@ -14,26 +14,26 @@ Support teams at any high-volume e-commerce company deal with the same recurring
 Raw Ticket
     │
     ▼
-┌─────────────────────┐
-│ 1. Summarizer        │  → structured JSON: summary, key issues,
-│    (zero-shot LLM)   │     sentiment, action items, confidence
-└─────────┬─────────────┘
-          ▼
-┌─────────────────────┐
-│ 2. Summary Judge      │  → LLM-as-judge score: factual accuracy,
-│    (LLM-as-judge)     │     completeness, conciseness, actionability
-└─────────┬─────────────┘
-          ▼
-┌─────────────────────┐
+  ┌─────────────────────┐
+  │ 1. Summarizer       │  → structured JSON: summary, key issues,
+  │    (zero-shot LLM)  │     sentiment, action items, confidence
+  └─────────┬───────────┘
+            ▼
+  ┌─────────────────────┐
+  │ 2. Summary Judge    │  → LLM-as-judge score: factual accuracy,
+  │    (LLM-as-judge)   │     completeness, conciseness, actionability
+  └─────────┬───────────┘
+            ▼
+┌───────────────────────┐
 │ 3. Response Generator │  → policy-grounded, customer-facing
 │    (policy-grounded)  │     draft email
-└─────────┬─────────────┘
-          ▼
-┌─────────────────────┐
+└───────────┬───────────┘
+            ▼
+┌────────────────────────┐
 │ 4. Response Judge      │  → pass/fail + scope check, policy
 │    (LLM-as-judge)      │     alignment, tone, actionability
-└─────────┬─────────────┘
-          ▼
+└───────────┬────────────┘
+            ▼
    Compiled table (CSV) → human agent review queue
 ```
 
