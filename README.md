@@ -11,9 +11,9 @@ Support teams at any high-volume e-commerce company deal with the same recurring
 ## Architecture
 
 ```
-Raw Ticket
-    │
-    ▼
+        Raw Ticket
+            │
+            ▼
   ┌─────────────────────┐
   │ 1. Summarizer       │  → structured JSON: summary, key issues,
   │    (zero-shot LLM)  │     sentiment, action items, confidence
