@@ -48,6 +48,45 @@ Each stage is a separate module in `src/`, using its own system prompt and its o
 | Response generation | `src/response_generator.py` | Drafts a customer-facing email, grounded in an embedded policy document (`src/policies.py`) so it can't promise refunds/replacements outside policy. Forces an apology opener when sentiment is negative. |
 | Response evaluation | `src/evaluator.py` | A second judge checks the draft for policy alignment, instruction-following, factual grounding, tone, and — critically — whether the ticket was even in scope for this company at all. |
 
+## Example run
+
+**Input ticket:**
+> my card was charged twice for order 55210 and the site still shows payment failed, can someone check this asap i dont want to be charged again
+
+**1. Structured summary**
+
+| Field | Value |
+|---|---|
+| Summary | Customer reports being charged twice for order 55210 while the site shows payment as failed, and requests urgent help to prevent further charges. |
+| Sentiment | Frustrated |
+| Key issues | Double charge for order 55210; payment status shows failed |
+| Action items | Verify payment status; check for duplicate charges; respond with findings |
+
+**Summary judge:** 5/5 — accurate, concise, and actionable for a support agent.
+
+**2. Generated email response**
+
+> **Subject: Urgent Assistance Required for Duplicate Charge on Order 55210**
+>
+> Dear [Customer Name],
+>
+> I sincerely apologize for the inconvenience you have experienced regarding the duplicate charge for your order 55210. I understand how concerning this situation can be, especially with the payment status indicating a failure.
+>
+> Rest assured, I am here to assist you in resolving this issue promptly. Typically, if a payment has been deducted but the order is not confirmed, the amount is automatically reversed within 3 to 5 business days. If you do not see the reversal reflected in your account after this period, please provide me with the transaction reference number so that I can investigate this matter further for you.
+>
+> In the meantime, I recommend refraining from retrying the payment to avoid any potential duplicate charges.
+>
+> Thank you for your patience and understanding. Please let me know if there is anything else I can assist you with.
+>
+> Best regards,
+> [Your Name]
+> Customer Support Representative
+> AuroraCart
+
+**3. Response judge:** ✅ Passed (recommendation: approve)
+- Scope check: 5/5 — correctly identified as an in-scope AuroraCart payment issue
+- Grounded entirely in the stated policy (3–5 business day auto-reversal), no invented details or unsupported promises
+
 ## A design choice worth calling out: the scope check
 
 Early runs surfaced a failure mode I hadn't anticipated: when a ticket described a problem with an unrelated third-party service (e.g. a food delivery complaint that had nothing to do with this company), the response generator didn't hesitate — it wrote a warm apology and offered a refund anyway. Instruction-following without boundary-awareness is a real risk once you're grounding generation in a policy document; the model will apply *a* policy even when it shouldn't apply *any* policy.
