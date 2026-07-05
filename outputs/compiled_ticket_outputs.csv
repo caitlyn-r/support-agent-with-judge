@@ -1,0 +1,298 @@
+Ticket ID,Raw Ticket Text,Generated Summary,Summary Score,Summary Justification,Generated Response,Response Score,Response Recommendation,Response Critical Issues
+1,hi so i ordered a bluetooth speaker like 9 days ago and it still says preparing for shipment??? i needed this for a trip this weekend this is ridiculous i want my money back,"The customer ordered a Bluetooth speaker 9 days ago, which is still marked as preparing for shipment. They express frustration as they need it for an upcoming trip and request a refund.",5,"The summary accurately captures the customer's issue, including the order time, current status, urgency for the trip, and the request for a refund, while maintaining a clear and concise tone.","Subject: Update on Your Bluetooth Speaker Order
+
+Dear [Customer Name],
+
+I sincerely apologize for the inconvenience you've experienced with your order for the Bluetooth speaker. I understand how frustrating it must be to see your item still marked as preparing for shipment, especially with your upcoming trip in mind.
+
+Since your order has been delayed beyond the promised timeframe, you are eligible for a full refund without needing to return the item. To proceed with this, I will initiate the refund process right away. Please allow 5 to 7 business days for the amount to reflect back to your original payment method.
+
+If you have any further questions or need assistance with anything else, please don't hesitate to reach out. We appreciate your understanding and patience during this time.
+
+Best regards,
+
+[Your Name]  
+Customer Support Representative  
+AuroraCart",4,reject,"['The response inaccurately states that a refund can be processed without returning the item, which contradicts the policy.']"
+2,Order #48213 arrived today but it's the wrong color. I ordered black and got white. Not a huge deal but I'd like the correct item please.,"Customer received the wrong color for order #48213, requesting the correct item.",5,"The summary accurately captures the key issue of receiving the wrong color and includes the order number, making it clear and actionable for the support agent.","Subject: Assistance with Your Order #48213
+
+Dear [Customer Name],
+
+I hope this message finds you well. I want to sincerely apologize for the inconvenience you've experienced with receiving the wrong color for your order #48213. We understand how important it is to receive the correct item, and I appreciate your patience as we resolve this matter.
+
+To ensure you receive the correct item, we will arrange for a free replacement of the wrong color you received. Our team will also coordinate the pickup of the incorrect item within the next two business days.
+
+Please let us know if there is anything else we can assist you with during this process. Your satisfaction is our priority, and we are here to help.
+
+Thank you for your understanding.
+
+Best regards,
+
+[Your Name]  
+Customer Support Representative  
+AuroraCart",5,approve,[]
+3,"the package i got had a cracked screen on the tablet inside, box looked fine from outside but the tablet is clearly damaged. attaching photos. what do i do now","The customer received a tablet with a cracked screen, despite the outer packaging appearing undamaged. They have attached photos of the damage and are seeking guidance on the next steps.",5,"The summary accurately captures the customer's issue, includes all key details, is concise, actionable, and maintains a clear tone.","Subject: Assistance with Your Damaged Tablet
+
+Dear [Customer Name],
+
+I hope this message finds you well. I want to sincerely apologize for the inconvenience you have experienced with the tablet you received. I understand how disappointing it must be to find a cracked screen, especially when the packaging appeared undamaged.
+
+Thank you for providing the photos of the damage; they will help us address your issue more effectively. As per our policy, you are eligible for a free replacement or a full refund for the damaged item. 
+
+To proceed, please let us know which option you prefer. If you choose a replacement, we will arrange for the pickup of the damaged tablet within 2 business days. If you prefer a refund, we will initiate that process immediately upon receiving the item back.
+
+Once again, I apologize for this situation and appreciate your understanding. Please reply to this email with your preferred resolution, and we will take care of it promptly.
+
+Best regards,
+
+[Your Name]  
+Customer Support Team  
+AuroraCart",5,approve,[]
+4,"my card was charged twice for order 55210 and the site still shows payment failed, can someone check this asap i dont want to be charged again",The customer reports being charged twice for order 55210 while the site indicates that the payment has failed. They request urgent assistance to resolve the issue and prevent further charges.,5,"The summary accurately captures the customer's issue, includes all key details, is concise and clear, and emphasizes the urgency of the request, making it actionable for the support agent.","Subject: Urgent Assistance Required for Duplicate Charge on Order 55210
+
+Dear [Customer Name],
+
+I sincerely apologize for the inconvenience you have experienced regarding the duplicate charge for your order 55210. I understand how concerning this situation can be, especially with the payment status indicating a failure.
+
+Rest assured, I am here to assist you in resolving this issue promptly. Typically, if a payment has been deducted but the order is not confirmed, the amount is automatically reversed within 3 to 5 business days. If you do not see the reversal reflected in your account after this period, please provide me with the transaction reference number so that I can investigate this matter further for you.
+
+In the meantime, I recommend refraining from retrying the payment to avoid any potential duplicate charges.
+
+Thank you for your patience and understanding. Please let me know if there is anything else I can assist you with.
+
+Best regards,
+
+[Your Name]  
+Customer Support Representative  
+AuroraCart",5,approve,[]
+5,"Hi, just wanted to say the earbuds I ordered arrived early and work great! No issues, just wanted to give feedback.","The customer reported that their earbuds arrived early and are functioning well, providing positive feedback.",4,"The summary accurately reflects the customer's positive feedback and the condition of the product. It is concise and clear, but it could be slightly more actionable by suggesting how to handle positive feedback.","Subject: Thank You for Your Feedback on Your Earbuds!
+
+Dear [Customer Name],
+
+Thank you for reaching out to us! We are thrilled to hear that your earbuds arrived early and that they are functioning well. Your positive feedback truly means a lot to us, and we appreciate you taking the time to share your experience.
+
+If you have any further questions or need assistance in the future, please don't hesitate to reach out. We’re here to help!
+
+Thank you once again for choosing AuroraCart.
+
+Best regards,
+
+[Your Name]  
+Customer Support Team  
+AuroraCart",5,approve,[]
+6,this is the third email im sending about my missing package nobody has responded in a week I AM DONE with this company,The customer is frustrated about not receiving a response regarding their missing package after sending three emails over the course of a week.,4,"The summary accurately captures the customer's frustration and the key details about the missing package and lack of response. However, it could include the customer's emotional state more explicitly to enhance completeness.","Subject: Update on Your Missing Package
+
+Dear [Customer Name],
+
+I sincerely apologize for the inconvenience you have experienced regarding your missing package and for the lack of response to your previous emails. I understand how frustrating this situation must be, and I appreciate your patience as we work to resolve it.
+
+I want to assure you that we are looking into this matter with urgency. Please allow me a moment to gather the necessary information regarding your order, and I will provide you with an update as soon as possible.
+
+Thank you for bringing this to our attention, and again, I apologize for any distress this has caused. Your satisfaction is important to us, and we are committed to resolving this issue promptly.
+
+Best regards,
+
+[Your Name]  
+Customer Support Representative  
+AuroraCart",4,approve,[]
+7,"can u tell me y my delivery keeps getting rescheduled, ordrd on the 12th still nothing, was supposd to come 3 days ago","The customer is inquiring about the repeated rescheduling of their delivery, which was ordered on the 12th and was expected to arrive three days ago.",5,"The summary accurately captures the customer's issue regarding the rescheduled delivery, includes key details about the order date and expected arrival, and is clear and concise. It could be slightly more actionable by suggesting a follow-up or solution, but overall it is very effective.","Subject: Update on Your Delivery Status
+
+Dear [Customer Name],
+
+I hope this message finds you well. I want to sincerely apologize for the inconvenience caused by the repeated rescheduling of your delivery. I understand how frustrating it can be when expectations are not met, especially when you were anticipating your order.
+
+Your order, placed on the 12th, was expected to arrive three days ago, and I regret that we have not yet fulfilled this promise. Please rest assured that we are looking into this matter urgently and will provide you with a revised delivery date as soon as possible.
+
+In the meantime, if you have any further questions or concerns, please do not hesitate to reach out. We appreciate your patience and understanding during this time.
+
+Thank you for being a valued customer.
+
+Best regards,
+
+[Your Name]  
+Customer Support Team  
+AuroraCart",4,revise,['Failure to mention the $5 store credit for delays beyond 3 days.']
+8,"I used your app to order but the food never arrived and when I called the restaurant they said they don't use your platform at all, can you refund me","The customer ordered food through the app, but the order did not arrive. Upon contacting the restaurant, they were informed that the restaurant does not use the app for orders. The customer is requesting a refund.",5,"The summary accurately captures the customer's issue, includes all key details, is concise, actionable, and maintains a clear and neutral tone.","Subject: Your Order Refund Request
+
+Dear [Customer Name],
+
+I hope this message finds you well. I want to sincerely apologize for the inconvenience you've experienced with your recent order. I understand how frustrating it must be to have your food order not arrive, especially after contacting the restaurant and discovering they do not use our app for orders.
+
+Given the circumstances, I would be happy to assist you with your refund request. Please allow us a few business days to process this. You can expect the refund to be completed within 5 to 7 business days once it has been initiated.
+
+If you have any further questions or need additional assistance, please don’t hesitate to reach out. We appreciate your understanding and patience in this matter.
+
+Thank you for bringing this to our attention.
+
+Best regards,
+
+[Your Name]  
+Customer Support Team  
+AuroraCart",1,reject,"['The response treats an out-of-scope issue as an AuroraCart issue and offers a refund, which is not appropriate.']"
+9,"Return requested for order 39102 two weeks ago, courier picked it up, but I haven't received my refund yet. Can you check the status?","The customer requested a return for order 39102 two weeks ago. The courier has picked up the item, but the customer has not yet received their refund and is asking for a status update.",5,"The summary accurately captures all key details of the customer's issue, is concise, and clearly states the customer's request for a status update on their refund.","Subject: Update on Your Refund for Order 39102
+
+Dear [Customer Name],
+
+I hope this message finds you well. I sincerely apologize for the inconvenience you have experienced regarding the status of your refund for order 39102. 
+
+I understand that the courier has picked up the item two weeks ago, and you have yet to receive your refund. Please rest assured that we are actively processing your request. Refunds typically take 5 to 7 business days to be completed after the return is picked up and verified.
+
+If you do not see the refund reflected in your account within this timeframe, please let us know, and we will be happy to assist you further.
+
+Thank you for your patience and understanding. If you have any more questions or need further assistance, please feel free to reach out.
+
+Best regards,
+
+[Your Name]  
+Customer Support Representative  
+AuroraCart",5,approve,[]
+10,"the winter jacket i bought is way too small even tho i ordered my usual size, is there a size chart issue or something","The customer reports that the winter jacket purchased is too small, despite ordering their usual size. They are inquiring if there is an issue with the size chart.",5,"The summary accurately captures the customer's issue regarding the size of the jacket, includes their usual size ordering, and clearly states their inquiry about the size chart, making it clear and actionable for the support agent.","Subject: Assistance with Your Winter Jacket Size Inquiry
+
+Dear [Customer Name],
+
+Thank you for reaching out to us regarding your recent purchase of the winter jacket. I sincerely apologize for the inconvenience you've experienced with the sizing, especially since you ordered your usual size.
+
+We strive to provide accurate sizing information, and I understand how frustrating it can be when an item does not fit as expected. To assist you further, I would recommend checking our size chart again to ensure that the measurements align with your usual size. If you believe there may be an issue with the size chart or if you'd like to explore options for a different size, please let me know.
+
+We are here to help you find a solution that works best for you. If a replacement is needed, we can arrange that promptly.
+
+Thank you for your understanding, and I look forward to assisting you further.
+
+Best regards,
+
+[Your Name]  
+Customer Support Representative  
+AuroraCart",5,approve,[]
+11,"hey just checking in on my order status, no rush, just curious when it might ship",Customer inquires about the status of their order and when it might ship.,4,"The summary accurately captures the customer's inquiry about the order status and shipping time. It is concise and clear, but could include the customer's relaxed tone ('no rush') to enhance completeness and tone.","Subject: Update on Your Order Status
+
+Dear [Customer Name],
+
+Thank you for reaching out to us regarding the status of your order. I understand that you're curious about when it might ship, and I'm here to assist you with that.
+
+Currently, your order is being processed, and we expect it to ship shortly. While I appreciate your relaxed approach and the fact that there’s no rush, please rest assured that we are working diligently to ensure it is dispatched as soon as possible.
+
+If you have any further questions or need additional assistance, feel free to reach out. We’re here to help!
+
+Best regards,
+
+[Your Name]  
+Customer Support Team  
+AuroraCart",5,approve,[]
+12,"i think i was overcharged for shipping on my last two orders, the checkout page said free shipping over $50 and my order was $62",Customer believes they were overcharged for shipping on their last two orders despite the checkout page indicating free shipping for orders over $50.,4,"The summary accurately captures the customer's belief about being overcharged and references the free shipping policy. It could improve by explicitly mentioning the number of orders affected, but it is still clear and actionable.","Subject: Inquiry Regarding Shipping Charges on Recent Orders
+
+Dear [Customer Name],
+
+I hope this message finds you well. I want to sincerely apologize for the inconvenience you've experienced regarding the shipping charges on your recent orders. I understand how frustrating it can be to feel overcharged, especially when the checkout page indicates free shipping for orders over $50.
+
+To assist you further, could you please provide me with the order numbers for the two transactions in question? This will allow me to investigate the matter thoroughly and ensure that any discrepancies are addressed promptly.
+
+Thank you for bringing this to our attention. We appreciate your patience as we work to resolve this issue for you.
+
+Best regards,
+
+[Your Name]  
+AuroraCart Customer Support",5,approve,[]
+13,"Extremely disappointed. Ordered a birthday gift with guaranteed 2-day delivery, paid extra for it, and it's now been 6 days with no updates. The event has already passed.",Customer is disappointed due to a delayed birthday gift order that was supposed to arrive within 2 days but has not been delivered after 6 days.,4,"The summary accurately captures the customer's disappointment and the key details about the delayed delivery. It could be improved by mentioning the extra payment for expedited shipping and that the event has already passed, which adds context to the urgency of the issue.","Subject: Apology for Delay in Your Order
+
+Dear [Customer Name],
+
+I hope this message finds you well. I want to sincerely apologize for the inconvenience you have experienced with the delay of your birthday gift order. I understand how important it was for this item to arrive on time, especially given that it was intended for a special occasion.
+
+As you mentioned, your order was expected to be delivered within 2 days, and I regret that it has not yet arrived after 6 days. This is certainly not the level of service we strive to provide, and I appreciate your patience as we work to resolve this issue.
+
+To address the delay, I would like to offer you a $5 store credit as compensation for the inconvenience. If your order does not arrive soon, please let us know, and we can discuss further options, including a full refund without the need for a return.
+
+Thank you for bringing this matter to our attention. Please feel free to reach out if you have any further questions or concerns. We are here to help.
+
+Warm regards,
+
+[Your Name]  
+Customer Support Representative  
+AuroraCart",5,approve,[]
+14,"account login isnt working keeps saying invalid password even after i reset it three times, this has nothing to do with an order but i need help","The customer is unable to log into their account due to an 'invalid password' error, despite resetting the password three times. They request assistance with this issue.",5,"The summary accurately captures the customer's issue, includes all key details, is concise, actionable, and maintains a clear and professional tone.","Subject: Assistance with Your Account Login Issue
+
+Dear [Customer Name],
+
+I hope this message finds you well. I sincerely apologize for the inconvenience you are experiencing with logging into your account due to the 'invalid password' error. I understand how frustrating this situation can be, especially after multiple password resets.
+
+To assist you further, please try the following steps:
+
+1. Ensure that you are entering the correct email address associated with your account.
+2. Check for any typing errors, including case sensitivity in your password.
+3. Clear your browser cache or try logging in using a different browser or device.
+
+If you continue to face issues after trying these steps, please let me know, and I will be happy to investigate further and provide additional support.
+
+Thank you for your patience, and I look forward to resolving this issue for you.
+
+Best regards,
+
+[Your Name]  
+Customer Support Representative  
+AuroraCart",5,approve,[]
+15,"Received someone else's order in my package - a set of kitchen knives, not what I ordered at all (I ordered a phone case). Please advise.","The customer received an incorrect order, specifically a set of kitchen knives instead of the phone case they ordered.",5,"The summary accurately captures the customer's issue, clearly states the incorrect item received, and specifies the item that was actually ordered, making it actionable and easy to understand for the support agent.","Subject: Resolution for Your Incorrect Order
+
+Dear [Customer Name],
+
+I hope this message finds you well. I want to sincerely apologize for the inconvenience you have experienced with your recent order. I understand that you received a set of kitchen knives instead of the phone case you ordered, and I can imagine how frustrating this must be.
+
+To resolve this issue, we would be happy to arrange for a free replacement of the correct item. Additionally, we will organize the pickup of the incorrect item at your convenience, ensuring that you do not incur any shipping costs.
+
+Please let us know a suitable time for the pickup, and we will expedite the process to get your correct order to you as soon as possible.
+
+Thank you for your understanding and patience in this matter. We are here to help, so please feel free to reach out if you have any further questions or concerns.
+
+Best regards,
+
+[Your Name]  
+Customer Support Representative  
+AuroraCart",5,approve,[]
+16,"payment went through on my end but the order confirmation email never came, order number not visible anywhere on the site either",The customer completed a payment but did not receive an order confirmation email and cannot find the order number on the website.,4,"The summary accurately reflects the customer's issue and is clear and concise. However, it could be slightly more actionable by suggesting next steps for the support agent to take regarding the missing order number.","Subject: Assistance with Your Order Confirmation
+
+Dear [Customer Name],
+
+I hope this message finds you well. I sincerely apologize for the inconvenience you’ve experienced regarding your recent payment and the lack of an order confirmation email. I understand how frustrating this situation can be.
+
+To assist you further, I recommend checking your spam or junk email folder, as sometimes confirmation emails can inadvertently end up there. If you still cannot find the order confirmation, please provide me with the email address used for the transaction, and I will look into this matter for you.
+
+Additionally, if you completed the payment but did not receive an order number, rest assured that we will investigate this issue promptly to ensure everything is resolved.
+
+Thank you for your patience, and I look forward to helping you get this sorted out.
+
+Best regards,
+
+[Your Name]  
+Customer Support Representative  
+AuroraCart",5,approve,[]
+17,"Wanted to ask about your return policy before I order, specifically for electronics - is there a restocking fee?","Customer inquires about the return policy for electronics, specifically asking if there is a restocking fee.",5,"The summary accurately captures the customer's inquiry about the return policy for electronics and the specific question regarding the restocking fee, making it clear and actionable for the support agent.","Subject: Inquiry About Return Policy for Electronics
+
+Dear [Customer Name],
+
+Thank you for reaching out to us with your question regarding our return policy for electronics. 
+
+I’m happy to inform you that we do not charge a restocking fee for returned electronics. You are eligible for a full refund or replacement within 14 days of delivery, provided the item is in its original condition.
+
+If you have any further questions or need assistance with a return, please feel free to let me know. I’m here to help!
+
+Best regards,
+
+[Your Name]  
+Customer Support Representative  
+AuroraCart",5,approve,[]
+18,"delivery guy left my package outside in the rain and now the box is soaked through, item inside might be damaged havent opened it yet","The customer reported that the delivery person left their package outside in the rain, resulting in a soaked box. The customer is concerned that the item inside may be damaged but has not opened it yet.",5,"The summary accurately captures the customer's issue, includes all key details, is concise and clear, and maintains a professional tone. It is actionable, though it could suggest next steps for the customer or support agent.","Subject: We're Here to Help with Your Delivery Issue
+
+Dear [Customer Name],
+
+I sincerely apologize for the inconvenience you have experienced with your recent delivery. I understand how concerning it must be to find your package left outside in the rain, and I appreciate you bringing this to our attention.
+
+To ensure that we address this issue promptly, I recommend that you carefully inspect the item inside the box. If you find that the item is damaged, please let us know as soon as possible. We will be happy to assist you with a replacement or a full refund, depending on your preference.
+
+Additionally, I will forward your feedback regarding the delivery process to our team to help prevent similar situations in the future.
+
+Thank you for your understanding, and please feel free to reach out if you have any further questions or concerns.
+
+Best regards,
+
+[Your Name]  
+Customer Support Representative  
+AuroraCart",4,revise,['The response does not mention the requirement for photographic evidence for damaged item claims.']
