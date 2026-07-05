@@ -56,11 +56,20 @@ def run_pipeline(input_csv: str, output_csv: str = "outputs/compiled_ticket_outp
     df = pd.concat([df, response_eval_df], axis=1)
 
     # Compile and export
-    compiled = df[["ticket_id", "ticket_text", "summary", "email_response"]].rename(columns={
+    compiled = df[[
+        "ticket_id", "ticket_text", "summary", "overall_score", "justification",
+        "email_response", "email_eval_overall_score", "email_eval_recommendation",
+        "email_eval_critical_issues",
+    ]].rename(columns={
         "ticket_id": "Ticket ID",
         "ticket_text": "Raw Ticket Text",
         "summary": "Generated Summary",
+        "overall_score": "Summary Score",
+        "justification": "Summary Justification",
         "email_response": "Generated Response",
+        "email_eval_overall_score": "Response Score",
+        "email_eval_recommendation": "Response Recommendation",
+        "email_eval_critical_issues": "Response Critical Issues",
     })
 
     output_path = Path(output_csv)
