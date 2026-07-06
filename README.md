@@ -96,8 +96,8 @@ The fix was adding an explicit scope-check as the first evaluation criterion in 
 ## Getting started
 
 ```bash
-git clone <this-repo>
-cd support-ticket-agent
+git clone https://github.com/caitlyn-r/support-agent-with-judge.git
+cd support-agent-with-judge
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 cp .env.example .env   # then add your own OPENAI_API_KEY
@@ -116,7 +116,7 @@ Output is written to `outputs/compiled_ticket_outputs.csv` (gitignored — gener
 ## Repo structure
 
 ```
-support-ticket-agent/
+support-agent-with-judge/
 ├── src/
 │   ├── config.py             # env/config loading, model settings
 │   ├── policies.py           # company policy text used to ground responses
