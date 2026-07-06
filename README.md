@@ -118,18 +118,19 @@ Output is written to `outputs/compiled_ticket_outputs.csv` (gitignored — gener
 ```
 support-agent-with-judge/
 ├── src/
-│   ├── config.py             # env/config loading, model settings
-│   ├── policies.py           # company policy text used to ground responses
-│   ├── summarizer.py         # stage 1
-│   ├── evaluator.py          # stages 2 & 4 (both LLM-as-judge calls)
-│   ├── response_generator.py # stage 3
-│   ├── pipeline.py           # orchestrates all four stages
-│   └── utils.py              # shared JSON-parsing helpers
+│   ├── config.py                    # env/config loading, model settings
+│   ├── policies.py                  # company policy text used to ground responses
+│   ├── summarizer.py                # stage 1
+│   ├── evaluator.py                 # stages 2 & 4 (both LLM-as-judge calls)
+│   ├── response_generator.py        # stage 3
+│   ├── pipeline.py                  # orchestrates all four stages
+│   └── utils.py                     # shared JSON-parsing helpers
 ├── data/
-│   └── sample_tickets.csv    # synthetic ticket dataset
+│   └── sample_tickets.csv           # synthetic ticket dataset
 ├── demo/
-│   └── demo.ipynb            # interactive walkthrough
-├── outputs/                  # generated CSVs (gitignored)
+│   └── demo.ipynb                   # interactive walkthrough
+├── outputs/                         # generated CSVs (gitignored)
+│   └── compiled_ticket_outputs.csv  # example output from sample_tickets.csv
 ├── requirements.txt
 └── .env.example
 ```
